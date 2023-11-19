@@ -1,0 +1,21 @@
+
+   [
+        {
+            "EMPID": 1,
+            "NAME" : "Alkesh",
+            "DOB" : "25-09-2001",
+            "Role":"Python developer"
+        },
+        {
+            "EMPID": 2,
+            "NAME" : "Mahesh",
+            "DOB" : "15-10-2001",
+            "Role":"HMTL developer"
+        },
+        {
+            "EMPID": 3,
+            "NAME" : "Sonu",
+            "DOB" : "05-03-2000",
+            "Role":"Full Stack developer"
+        }
+    ]

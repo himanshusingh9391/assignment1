@@ -1,0 +1,60 @@
+.user-main{
+    background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+    height: 100vh;
+    border-radius: 15px;
+}
+.user-img1{
+    float: right;
+    height: 70px;
+    margin-right: 1rem;
+    margin-top: 30px;
+}
+
+.user-img2{
+    text-align: center;
+}
+
+.user-icon{
+    font: normal normal normal 18px/25px Source Sans Pro;
+    letter-spacing: 0.02px;
+    color: #36A546;
+    margin-top: 2rem;
+}
+
+.user-search{
+    text-align: center;
+    /* margin-top: 2rem; */
+    margin-left: -2rem;
+}
+
+input{
+    text-align: center;
+    font: normal normal bold 16px/21px Mulish;
+    letter-spacing: 0.02px;
+    border-radius: 20px;
+    height: 5vh;
+    width:320px;
+    margin: 1rem;
+}
+
+.user-data{
+    border-radius: 20px;
+    overflow: hidden;
+    
+}
+
+.card-user{
+    background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+   
+}
+
+.userdata-data{
+    margin-top: 0.5rem;
+}
+
+.home-bottom{
+    margin-top: 1rem;
+    position: fixed;
+    width: 50vh;
+}
+
